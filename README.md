@@ -1,37 +1,39 @@
-🔍 Pecklet nedir?
-Pecklet, kullanıcıların dil öğrenme şeklini dönüştüren platformlar arası bir uygulamadır. İster özel kelime listeleri oluşturuyor, ister yapay zeka tarafından oluşturulan sınavlarla uğraşıyor, ister sürükleyici hikayelere dalıyor veya oyunlaştırılmış istatistiklerle ilerlemenizi takip ediyor olun, Pecklet dinamik ve kişiselleştirilmiş bir öğrenme yolculuğu sunar. Başlangıç seviyesinden ileri düzey öğrencilere kadar, şık, kullanıcı dostu bir arayüzle her beceri düzeyine uyum sağlar.
+# ✨ PECKLET MOBILE APP
+## 🔍 What is Pecklet?
+Pecklet is a cross-platform app that transforms how users learn languages. Whether you're creating custom word lists, tackling AI-generated quizzes, diving into immersive stories, or tracking your progress with gamified stats, Pecklet offers a dynamic and personalized learning journey. From beginners to advanced learners, it adapts to every skill level with a sleek, user-friendly interface.
+## 🚀 Key Features:
 
-🚀 Ana Özellikler:
+Interactive Quizzes: Powered by the Gemini API, quizzes dynamically adapt to your vocabulary with varied formats like multiple-choice and fill-in-the-blank.
 
-Etkileşimli Sınavlar: Gemini API tarafından desteklenen sınavlar, çoktan seçmeli ve boşluk doldurma gibi çeşitli formatlarla kelime dağarcığınıza dinamik olarak uyum sağlar.
+Immersive Stories: Explore short stories tailored to your proficiency level, complete with highlighted vocabulary for contextual learning.
 
-Sürükleyici Hikayeler: Bağlamsal öğrenme için vurgulanmış kelimelerle tamamlanmış, yeterlilik seviyenize göre uyarlanmış kısa hikayeleri keşfedin.
+Word List Management: Build, edit, and organize custom word lists to focus on what matters most to you.
 
-Kelime Listesi Yönetimi: Sizin için en önemli olan şeylere odaklanmak için özel kelime listeleri oluşturun, düzenleyin ve organize edin.
+Gamified Progression: Unlock levels, earn XP, and track streaks to stay motivated.
 
-Oyunlaştırılmış İlerleme: Motive olmak için seviyelerin kilidini açın, XP kazanın ve galibiyet serilerini takip edin.
+User Dashboard: Visualize your learning stats, from words mastered to quiz performance, all in one place.
 
-Kullanıcı Kontrol Paneli: Ustalaşılan kelimelerden sınav performansına kadar öğrenme istatistiklerinizi tek bir yerde görselleştirin.
+Premium Experience: Access exclusive stories, themed challenges, and advanced analytics for a deeper dive.
 
-Premium Deneyim: Daha derin bir inceleme için özel hikayelere, temalı zorluklara ve gelişmiş analizlere erişin.
+Seamless Authentication: Secure login, registration, and password recovery with smooth animations.
 
-Sorunsuz Kimlik Doğrulama: Sorunsuz animasyonlarla güvenli oturum açma, kayıt ve parola kurtarma.
+## 🛠 Tech Stack Breakdown:
 
-🛠 Teknik Yığın Dağılımı:
+React Native & Expo: For a performant, cross-platform app that shines on iOS and Android.
 
-React Native & Expo: iOS ve Android'de parlayan, yüksek performanslı, platformlar arası bir uygulama için.
+TypeScript: Ensuring robust, type-safe code.
 
-TypeScript: Sağlam, tür açısından güvenli kod sağlama.
+Zustand + AsyncStorage: Lightweight state management with persistent data storage.
 
-Zustand + AsyncStorage: Kalıcı veri depolama ile hafif durum yönetimi.
+Expo Router: File-based navigation for a Next.js-like experience.
 
-Expo Router: Next.js benzeri bir deneyim için dosya tabanlı gezinme.
+Gemini API: Driving AI-powered translations and quiz generation.
 
-Gemini API: Yapay zeka destekli çevirileri ve test oluşturmayı yönlendirme.
+Lucide React Native: Clean, modern icons for a polished UI.
 
-Lucide React Native: Gösterişli bir kullanıcı arayüzü için temiz, modern simgeler.
+Expo Modules: LinearGradient and Ima
 
-Expo Modülleri: Çarpıcı görseller ve animasyonlar için LinearGradient ve Image.
+ge for stunning visuals and animations.
 
-[![Pecklet Mobile App]([https://img.youtube.com/vi/VIDEO_ID/0.jpg](https://i9.ytimg.com/vi/P__h0eqnedc/mqdefault.jpg?sqp=CMiD-78G-oaymwEmCMACELQB8quKqQMa8AEB-AH-CYAC0AWKAgwIABABGHIgXygXMA8=&rs=AOn4CLDqaAxlSbmFQubzz2pPIRKaA7mF7Q))]([https://www.youtube.com/watch?v=VIDEO_ID](https://youtu.be/P__h0eqnedc))
-
+## 📸 Video
+https://github.com/user-attachments/assets/7370d6f4-ec3d-42a5-9476-b6503fe2e24b 
